@@ -23,3 +23,5 @@ This is large, make sense to use a subset in the beginning. Go deep or go broad?
     2. scrape online retailers websites - must have description and images.
 
 3. Modeling 
+
+This work was done while at Platform.ai. All files have been moved to the private repository at platform.ai
